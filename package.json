@@ -9,7 +9,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@actions/core": "^1.2.6",
+    "@actions/core": "^1.11.1",
     "@actions/github": "^6.0.0",
     "@slack/web-api": "^7.0.2"
   },
